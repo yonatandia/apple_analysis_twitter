@@ -1,17 +1,10 @@
-# Ignore virtual environment
 venv/
 
-# Ignore configuration files containing sensitive information
 config.py
 
-# Ignore Python cache files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ignore environment variable files
 .env
-
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
